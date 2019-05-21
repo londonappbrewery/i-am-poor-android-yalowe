@@ -25,6 +25,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:contentDescription="@string/todo"
-        android:paddingTop="116dp"
+        android:paddingTop="115dp"
         app:srcCompat="@drawable/coal" />
 </RelativeLayout>
